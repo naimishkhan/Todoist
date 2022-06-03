@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyToDoApplication</string>
+    <string name="enter_your_todo_work">Enter your todo work</string>
+    <string name="update">Update</string>
+    <string name="enter_text">Enter text</string>
+    <string name="add">Add</string>
+    <string name="reset">Reset</string>
+    <string name="continue_with_google">continue_with_google</string>
+    <string name="apple">apple</string>
+    <string name="welcome_to_todoist">welcome_to_todoist</string>
+    <string name="logo">logo</string>
+    <string name="by_continuing_you_agree_to_todoist_s_terms_of_services_https_todoist_com_terms_and_privacy_policy_https_todoist_com_privacy">by_continuing_you_agree_to_todoist_s_terms_of_services_https_todoist_com_terms_and_privacy_policy_https_todoist_com_privacy</string>
+    <string name="continue_with_email">continue_with_email</string>
+    <string name="tap_to_add_a_task">tap_to_add_a_task</string>
+    <string name="today">today</string>
+    <string name="get_a_clear_view_of_the_day_ahead">get_a_clear_view_of_the_day_ahead</string>
+    <string name="all_your_tasks_that_are_due_today_will_show_up_here">all_your_tasks_that_are_due_today_will_show_up_here</string>
+    <string name="image">image</string>
+    <string name="todoi">ist</string>
+    <string name="button">Button</string>
+    <string name="add_your_notes">Add your Notes</string>
+</resources>
